@@ -30,7 +30,22 @@ Q2 Create a collaborative directory /common/admin with the following characteris
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/45697928-5a70-4ce3-a43f-eba1f7960902" />
 
 
+Task 3 :- 
+Copy the file /etc/fstab to /var/tmp. Configure the permissions of/var/tmp/fstab so that:
+1) The file /var/tmp/fstab is owned by the root user.
 
+2) The file /var/tmp/fstab belong to the group root.
+
+3) The file /var/tmp/fstab should not be executable by anyone.
+
+4) The user natasha is able to read and write /var/tmp/fstab.
+
+5) The user harry can neither write nor read /var/tmp/fstab.
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/f5806d18-be16-44ea-ba63-66f01bb25279" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/cfa1a72a-7cd2-4f08-a361-72228dd1de4f" />
+
+   
 
 
 
